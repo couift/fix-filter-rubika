@@ -46,9 +46,3 @@ if gottt == 1:
     print(color.pink+coderize)
     
     
-exit1=input(color.green+"Enter key For back >>> ")
-print('ok')
-time.sleep(2)
-system("clear")
-time.sleep(2)
-system("python fix-filter.py")
