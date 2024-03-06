@@ -43,6 +43,6 @@ for i in y0y:
 gottt=input(color.pink+'Enter 1 >>> ')  
 
 if gottt == 1:
-    print(color.pink+coderize)
+    print(color.pink+1)
     
     
