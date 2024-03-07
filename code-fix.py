@@ -1,4 +1,4 @@
-mport random
+import random
 import time
 import os
 from os import system
